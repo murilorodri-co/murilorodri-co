@@ -21,7 +21,7 @@
 
 [![Lucca's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=murilorodri-co&bg_color=0d1117&color=ffffff&line=73db74&point=64cf65&area=true&hide_border=true)](https://github.com/murilorodri-co/github-readme-activity-graph)
 
-## Tecnologias que eu uso no meu dia
+## Languages and Tools
 
 <div style="display: inline_block">
   <img align="center" alt="html" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -39,6 +39,14 @@
   <img align="center" alt="bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div><br/>
 
-<h3 align="left">Contato:</h3>
+<h3 align="left">Contact Me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/pablo-henrique-00b97321a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pablo-henrique-00b97321a" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pablo-henrique-linkedin" height="30" width="40" />
+</a>
+<a href="https://www.instagram.com/seu_usuario_aqui" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" alt="pablo-henrique-instagram" height="30" width="40" />
+</a>
+<a href="mailto:seu_email@gmail.com" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/47/Gmail_Icon.jpg" alt="pablo-henrique-gmail" height="30" width="40" />
+</a>

@@ -1,5 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=5CB25D&width=535&lines=Hello%2C+i'm+Murilo+Rodrigues!)](https://git.io/typing-svg)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" color=5cb25d>    
+<div style="position: relative; display: inline-block;">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="display: block;">
+  <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0;
+              background-color: rgba(255, 0, 0, 0.3); pointer-events: none;"></div>
+</div>    
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <a href="https://www.instagram.com/thisisvictormoreira/?theme=dark" target="_blank"><img align="left" alt="Victor M | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/128/1384/1384063.png" /></a>

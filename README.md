@@ -1,88 +1,31 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=5CB25D&width=535&lines=Hello%2C+i'm+Murilo+Rodrigues!)](https://git.io/typing-svg) 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
-
-<a href="https://www.instagram.com/thisisvictormoreira/?theme=dark" target="_blank"><img align="left" alt="Victor M | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/128/1384/1384063.png" /></a>
-<a href="https://www.linkedin.com/in/victor-moreira-teixeira/" target="_blank"><img align="left" alt="Victor M | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
-<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=DmwnWtDvdCLXZLDmnzllrHdkgptsHnKMFNMhhLcrvgzcLZVnnRWmbhGqJfhRjtwzrMfMzswxbWVG" target="_blank"><img align="left" alt="Victor M | GMAIL" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" /></a>
-<a href="https://github.com/victormoreiraofc" target="_blank"><img align="left" alt="Victor M | GITHUB" width="22px" src="https://cdn-icons-png.flaticon.com/128/733/733553.png" /></a>
-
-<br /><br /><br /><br />
-
-#### Languages and Tools:
-
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Scratch](https://img.shields.io/badge/-Scratch-333333?style=flat&logo=scratch&logoColor=FFA500)
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=jameson&logoColor=yellow)
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=%231572B6)
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
-![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Lua](https://img.shields.io/badge/Lua-333333?style=flat&logo=lua&logoColor=blue)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 
-#### Softwares:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&ize=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Pablo+Henrique+;I'm+19+years+old;I´m+from+Brasil,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
+ 
+<div align="center" style="inline_block">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=henriquepablo&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Lucca Hiratsuca github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquepablo&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=henriquepablo&&theme=tokyonight" alt="luccahiratsuca" />
+</div></br>
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Notepad++](https://img.shields.io/badge/-Notepad%2B%2B-333333?style=flat&logo=notepad%2B%2B)
-![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-333333?style=flat&logo=sublime%20text)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)
-![Apache Netbeans](https://img.shields.io/badge/Apache%20Netbeans-333333?style=flat&logo=apache&logoColor=green)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">    
+[![Lucca's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=henriquepablo&bg_color=0d1117&color=ffffff&line=058082&point=a2ecfb&area=true&hide_border=true)](https://github.com/luccahiratsuca/github-readme-activity-graph)
 
-### ⚙️ GitHub Analytics
+## Tecnologias que eu uso no meu dia
 
-<table align="center">
-  <tr>
-    <td>
-      <img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api?username=victormoreiraofc&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormoreiraofc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-</table>
+<div style="display: inline_block">
+  <img align="center" alt="spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="sql" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="git" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img align="center" alt="git" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="git" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="git" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)" />
+</div><br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">    
 
-### 🏆 GitHub Profile Trophy:
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=victormoreiraofc&column=8&theme=onedark&no-frame=true&no-bg=true"/>
-</a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  
-<div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-    
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/victormoreiraofc/count.svg" />  
-</p>
-
-[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=victormoreiraofc&theme=github-compact)](https://github.com/victormoreiraofc/github-readme-activity-graph)
-
-<p align="center">
-<br>
-<text>Uma linguagem não faz seu código ser bom, programadores bons fazem seu código ser bom.<br> —Samuel Custódio</text>
-</p>
-<br>
-<p align="center">
-  <img alt="centered image" height="85" src="images/brasil.png"/>
-  <br>
-Ultima atualização: quinta-feira, 27 de março de 2025 às 14:26 (BRT)
-</p>
+<h3 align="left">Contato:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/pablo-henrique-00b97321a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>

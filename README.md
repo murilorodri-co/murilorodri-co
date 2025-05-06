@@ -19,7 +19,7 @@
 </div></br>
 
 
-[![Lucca's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=murilorodri-co&bg_color=0d1117&color=ffffff&line=058082&point=a2ecfb&area=true&hide_border=true)](https://github.com/luccahiratsuca/github-readme-activity-graph)
+[![Lucca's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=murilorodri-co&bg_color=0d1117&color=ffffff&line=058082&point=a2ecfb&area=true&hide_border=true)](https://github.com/murilorodri-co/github-readme-activity-graph)
 
 ## Tecnologias que eu uso no meu dia
 

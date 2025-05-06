@@ -41,12 +41,6 @@
 
 <h3 align="left">Contact Me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/pablo-henrique-00b97321a" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pablo-henrique-linkedin" height="30" width="40" />
-</a>
-<a href="https://www.instagram.com/seu_usuario_aqui" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" alt="pablo-henrique-instagram" height="30" width="40" />
-</a>
-<a href="mailto:seu_email@gmail.com" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/47/Gmail_Icon.jpg" alt="pablo-henrique-gmail" height="30" width="40" />
-</a>
+<a href="https://www.instagram.com/muurilowol/?theme=dark" target="_blank"><img align="left" alt="Victor M | Instagram" width="30px" src="https://cdn-icons-png.flaticon.com/128/1384/1384063.png" /></a>
+<a href="https://www.linkedin.com/in/victor-moreira-teixeira/" target="_blank"><img align="left" alt="Victor M | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=DmwnWtDvdCLXZLDmnzllrHdkgptsHnKMFNMhhLcrvgzcLZVnnRWmbhGqJfhRjtwzrMfMzswxbWVG" target="_blank"><img align="left" alt="Victor M | GMAIL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" /></a>

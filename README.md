@@ -41,5 +41,5 @@
 
 <h3 align="left">Contact Me:</h3>
 <p align="left">
-<a href="linkedin.com/in/murilo-rodrigues-8153292b9/" target="_blank"><img align="left" alt="Victor M | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+<a href="https://www.linkedin.com/in/murilo-rodrigues-8153292b9/" target="_blank"><img align="left" alt="Victor M | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 <a href="mailto:murilo.corporativo28@gmail.com" target="_blank"><img align="left" alt="Victor M | GMAIL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" /></a>

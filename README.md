@@ -19,7 +19,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=murilorodri-co&theme=green_nur" alt="Murilo Rodrigues GitHub streak" />
 </div>
 
-[![Lucca's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=murilorodri-co&bg_color=0d1117&color=ffffff&line=058082&point=a2ecfb&area=true&hide_border=true)](https://github.com/murilorodri-co/github-readme-activity-graph)
+[![Lucca's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=murilorodri-co&bg_color=0d1117&color=ffffff&line=73db74&point=64cf65&area=true&hide_border=true)](https://github.com/murilorodri-co/github-readme-activity-graph)
 
 ## Tecnologias que eu uso no meu dia
 

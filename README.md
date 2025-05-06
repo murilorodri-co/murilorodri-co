@@ -12,7 +12,7 @@
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=murilorodri-co&show_icons=true&count_private=true&hide_border=true&title_color=d5b93b&icon_color=FAF9F6&text_color=67cd68&bg_color=0d1117" alt="Murilo Rodrigues GitHub stats" /> 
 
 <!-- Linguagens mais usadas -->
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilorodri-co&layout=compact&hide_border=true&title_color=FAF9F6&text_color=67cd68&bg_color=0d1117" />
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilorodri-co&layout=compact&hide_border=true&title_color=FAF9F6&text_color=faf8f3&bg_color=0d1117" />
 
 <!-- Contribuições contínuas (streak) -->
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murilorodri-co&theme=tokyonight" alt="Murilo Rodrigues GitHub streak" />

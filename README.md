@@ -8,9 +8,14 @@
 </div>
  
 <div align="center" style="inline_block">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=henriquepablo&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Lucca Hiratsuca github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquepablo&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=henriquepablo&&theme=tokyonight" alt="luccahiratsuca" />
+  <!-- Estatísticas gerais -->
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=murilorodri-co&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Murilo Rodrigues GitHub stats" /> 
+
+<!-- Linguagens mais usadas -->
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilorodri-co&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+
+<!-- Contribuições contínuas (streak) -->
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murilorodri-co&theme=tokyonight" alt="Murilo Rodrigues GitHub streak" />
 </div></br>
 
 
